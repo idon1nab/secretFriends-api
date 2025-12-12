@@ -1,4 +1,4 @@
-# Secret Friend (Biminchingu)
+# Secret Friend (Bimilchingu)
 
 > **Note to Admission Committee:**
 >
