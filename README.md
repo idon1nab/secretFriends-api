@@ -97,7 +97,7 @@
 - Utilized **few-shot prompting** to analyze the user's diary entry and system prompts.
 
 ## 🚀 How to start
-#### 💻 로컬 환경에서  API 서버 실행 방법
+#### 💻 Running the API Server Locally
 1. Clone the Spring Boot Project<br><br>
    ```
    git clone https://github.com/Dallili/secretFriends-api.git
